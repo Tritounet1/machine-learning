@@ -12,9 +12,10 @@ def loss_function():
 def gradient_descent():
     pass
 
-# def slope and intercept in JSON file
+# save slope and intercept in JSON file
 def save_model():
     pass
 
+# load slope and intercept from JSON file
 def load_model():
     pass
