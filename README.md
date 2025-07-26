@@ -15,3 +15,4 @@ The goal of this repository is to learn machine learning by building projects wi
 - Simple Linear Regression
 - Multiple Linear Regression
 - Image Classification
+- Classification
